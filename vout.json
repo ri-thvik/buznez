@@ -1,0 +1,138 @@
+﻿{
+  "metrics": {
+    "viewport": {
+      "w": 1600,
+      "h": 900
+    },
+    "docScrollW": 1600,
+    "docScrollH": 900,
+    "hasHorizontalOverflow": false,
+    "hasVerticalOverflow": false,
+    "board": {
+      "x": 385,
+      "y": 68,
+      "w": 790,
+      "h": 790,
+      "right": 1175,
+      "bottom": 858
+    },
+    "stage": {
+      "x": 280,
+      "y": 60,
+      "w": 1000,
+      "h": 806,
+      "right": 1280,
+      "bottom": 866
+    },
+    "left": {
+      "x": 0,
+      "y": 60,
+      "w": 280,
+      "h": 806,
+      "right": 280,
+      "bottom": 866
+    },
+    "right": {
+      "x": 1280,
+      "y": 60,
+      "w": 320,
+      "h": 806,
+      "right": 1600,
+      "bottom": 866
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 60,
+      "right": 1600,
+      "bottom": 60
+    },
+    "actionbar": {
+      "x": 0,
+      "y": 866,
+      "w": 1600,
+      "h": 35,
+      "right": 1600,
+      "bottom": 900
+    },
+    "statusBadge": {
+      "x": 712,
+      "y": 525,
+      "w": 136,
+      "h": 24,
+      "right": 848,
+      "bottom": 549
+    },
+    "tileSample": {
+      "x": 467,
+      "y": 775,
+      "w": 69,
+      "h": 82,
+      "right": 537,
+      "bottom": 857
+    },
+    "tileCount": 40,
+    "minTileFontPx": 11.053,
+    "maxTileFontPx": 13.8162,
+    "leftOverlapsBoard": false,
+    "rightOverlapsBoard": false,
+    "boardInsideViewport": true,
+    "playersRendered": 4,
+    "eventRows": 6
+  },
+  "probe": {
+    "headerH": 60,
+    "kids": [
+      {
+        "cls": "flex items-center gap-2 shrink-0 min-w-0",
+        "x": 0,
+        "y": 0,
+        "w": 1600,
+        "h": 32,
+        "bottom": 32
+      },
+      {
+        "cls": "flex items-center gap-2 min-w-0 flex-1 j",
+        "x": 0,
+        "y": 32,
+        "w": 1600,
+        "h": 27,
+        "bottom": 59
+      },
+      {
+        "cls": "flex items-center gap-1.5 shrink-0",
+        "x": 0,
+        "y": 59,
+        "w": 1600,
+        "h": 32,
+        "bottom": 91
+      }
+    ],
+    "sidebarBlocks": [
+      {
+        "cls": "p-4 border-b border-border-sub",
+        "y": 60,
+        "h": 112
+      },
+      {
+        "cls": "flex border-b border-border-su",
+        "y": 172,
+        "h": 39
+      },
+      {
+        "cls": "flex-1 overflow-hidden flex fl",
+        "y": 211,
+        "h": 147
+      },
+      {
+        "cls": "p-3 border-t border-border-sub",
+        "y": 358,
+        "h": 47
+      }
+    ]
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": []
+}

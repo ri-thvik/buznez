@@ -1,0 +1,133 @@
+﻿{
+  "metrics": {
+    "viewport": {
+      "w": 1600,
+      "h": 900
+    },
+    "docScrollW": 1600,
+    "docScrollH": 900,
+    "hasHorizontalOverflow": false,
+    "hasVerticalOverflow": false,
+    "board": {
+      "x": 414,
+      "y": 68,
+      "w": 732,
+      "h": 732,
+      "right": 1146,
+      "bottom": 800
+    },
+    "stage": {
+      "x": 280,
+      "y": 60,
+      "w": 1000,
+      "h": 748,
+      "right": 1280,
+      "bottom": 808
+    },
+    "left": {
+      "x": 0,
+      "y": 60,
+      "w": 280,
+      "h": 748,
+      "right": 280,
+      "bottom": 808
+    },
+    "right": {
+      "x": 1280,
+      "y": 60,
+      "w": 320,
+      "h": 748,
+      "right": 1600,
+      "bottom": 808
+    },
+    "header": {
+      "x": 0,
+      "y": 0,
+      "w": 1600,
+      "h": 60,
+      "right": 1600,
+      "bottom": 60
+    },
+    "actionbar": {
+      "x": 0,
+      "y": 808,
+      "w": 1600,
+      "h": 92,
+      "right": 1600,
+      "bottom": 900
+    },
+    "statusBadge": {
+      "x": 780,
+      "y": 653,
+      "w": 137,
+      "h": 36,
+      "right": 917,
+      "bottom": 689
+    },
+    "tileSample": {
+      "x": 490,
+      "y": 724,
+      "w": 64,
+      "h": 76,
+      "right": 555,
+      "bottom": 800
+    },
+    "tileCount": 40,
+    "minTileFontPx": 10.248,
+    "maxTileFontPx": 12.81,
+    "leftOverlapsBoard": false,
+    "rightOverlapsBoard": false,
+    "boardInsideViewport": true,
+    "playersRendered": 4,
+    "eventRows": 6
+  },
+  "probe": {
+    "headerH": 60,
+    "kids": [
+      {
+        "cls": "flex items-center gap-2 shrink-0 min-w-0",
+        "x": 14,
+        "y": 16,
+        "w": 134,
+        "h": 28,
+        "bottom": 44
+      },
+      {
+        "cls": "flex items-center gap-2 min-w-0 flex-1 j",
+        "x": 160,
+        "y": 16,
+        "w": 1267,
+        "h": 27,
+        "bottom": 43
+      },
+      {
+        "cls": "flex items-center gap-1.5 shrink-0",
+        "x": 1439,
+        "y": 14,
+        "w": 147,
+        "h": 32,
+        "bottom": 46
+      }
+    ],
+    "sidebarBlocks": [
+      {
+        "cls": "px-3 py-2.5 border-b border-bo",
+        "y": 60,
+        "h": 54
+      },
+      {
+        "cls": "flex border-b border-border-su",
+        "y": 114,
+        "h": 39
+      },
+      {
+        "cls": "flex-1 overflow-hidden flex fl",
+        "y": 153,
+        "h": 656
+      }
+    ]
+  },
+  "consoleErrors": [],
+  "pageErrors": [],
+  "failedRequests": []
+}

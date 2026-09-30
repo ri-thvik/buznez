@@ -1,0 +1,101 @@
+{
+  "steps": [
+    {
+      "step": "Room created + 6-char code shown",
+      "ok": true,
+      "detail": "code=MEJY9Q"
+    },
+    {
+      "step": "All 4 browsers see 4 players",
+      "ok": true,
+      "detail": "saw=4,4,4,4"
+    },
+    {
+      "step": "Same room code on all browsers",
+      "ok": true,
+      "detail": "MEJY9Q/MEJY9Q/MEJY9Q/MEJY9Q"
+    },
+    {
+      "step": "All 4 browsers navigated into the game",
+      "ok": true,
+      "detail": "true,true,true,true"
+    },
+    {
+      "step": "Player state identical across all 4 browsers",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "step": "Same current turn on all browsers",
+      "ok": true,
+      "detail": "turns=player_1790769468290_2rkt5z,player_1790769468290_2rkt5z,player_1790769468290_2rkt5z,player_1790769468290_2rkt5z"
+    },
+    {
+      "step": "A human player completed a real property purchase",
+      "ok": true,
+      "detail": "BUY ₹3150"
+    },
+    {
+      "step": "Roster has no bots when 4 humans joined",
+      "ok": true,
+      "detail": "Rithvik,Rahul,Arjun,Kiran"
+    },
+    {
+      "step": "All 4 browsers agree on the current turn",
+      "ok": true,
+      "detail": "turn=player_1790769475060_5x3o8t"
+    },
+    {
+      "step": "Ownership visible identically in every browser",
+      "ok": true,
+      "detail": "owned=1/1/1/1"
+    },
+    {
+      "step": "Cash/property state identical on all clients after purchase",
+      "ok": true,
+      "detail": "distinct=1"
+    },
+    {
+      "step": "Chat propagates between browsers",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "step": "Reconnecting player restores same identity/state",
+      "ok": true,
+      "detail": "restored"
+    }
+  ],
+  "errors": {
+    "Rithvik": {
+      "console": [],
+      "page": []
+    },
+    "Arjun": {
+      "console": [],
+      "page": []
+    },
+    "Rahul": {
+      "console": [],
+      "page": []
+    },
+    "Kiran": {
+      "console": [],
+      "page": []
+    }
+  },
+  "browsers": {
+    "Rithvik": {
+      "playersSeen": "4"
+    },
+    "Arjun": {
+      "playersSeen": "4"
+    },
+    "Rahul": {
+      "playersSeen": "4"
+    },
+    "Kiran": {
+      "playersSeen": "4"
+    }
+  }
+}
